@@ -14,10 +14,6 @@
 
 #>
 
-
-
-
-
 #This script is used to create organizational units in bulk
 
 #Import active directory module
