@@ -1,11 +1,18 @@
 
+
+![image](https://user-images.githubusercontent.com/62203157/227738924-4b402b68-f587-4740-a8e9-4cd25120187b.png)
+
+
+
 This Document Contains Powershell Cmdlets related to Active Directory
 
 
 
 
 
->get-command -Module ActiveDirectory  
+
+
+>Get-Command -Module ActiveDirectory  
 
 Display Basic Domain Information
 
